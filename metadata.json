@@ -1,0 +1,6 @@
+{
+  "name": "Campus Pulse",
+  "description": "Smart two-sided campus event platform with liquid glass aesthetics, AI flyer-to-event extraction, venue conflict detection, digital approval tracking, dynamic QR tickets, and live analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
